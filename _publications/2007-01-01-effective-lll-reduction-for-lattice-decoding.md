@@ -1,10 +1,10 @@
 ---
-title: "Effective LLL reduction for lattice decoding"
+title: "111111111111111111111111111111111111111111111111111111"
 collection: publications
-category: conferences
-permalink: /publication/2007-01-01-effective-lll-reduction-for-lattice-decoding
+category: manuscripts
+permalink: /publication/2007-01-01-effective-lll-reduction-for-lattice-decoding.md
 date: 2007-01-01
-venue: 'IEEE Int. Symp. Inform. Theory’07'
+venue: 'IEEE ICASSP 2007.'
 paperurl: ''
-citation: 'Cong Ling and Nick Howgrave-Graham "<a href=''>Effective LLL reduction for lattice decoding</a>", IEEE Int. Symp. Inform. Theory’07, Nice, France, June 2007.'
+citation: 'Lu Gan and Cong Ling "<a href=''>ccccccccccccccccccccccccc</a>", IEEE ICASSP 2007.'
 ---
